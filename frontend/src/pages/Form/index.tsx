@@ -1,5 +1,5 @@
-import './styles.css'
-import {Link} from "react-router-dom";
+import { Link } from 'react-router-dom';
+import './styles.css';
 
 function Form() {
 
@@ -40,8 +40,7 @@ function Form() {
                 </Link>
             </div >
         </div >
-    )
-
+    );
 }
 
 export default Form;
