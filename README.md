@@ -1,5 +1,26 @@
-# dsmovie
+# Projeto - dsmovie Para compor meu portifólio
 
-Projeto para avaliação do Prof. Nélio Alves da Devsuperior para certificação da Semana Spring React  - 2022
+https://jcarvalhooak.github.io/
 
-https://github.com/devsuperior/sds-dsmovie
+Projeto para avaliação Spring React  - 2022
+
+
+#Projeto FULL (POO com UML)
+
+#Backend:
+Projeto Java web no Spring Boot, JAVA 11
+
+#Frontend:
+ReactJS, HTML e CSS and TS
+
+#BASE:
+*AMBIENTE PRODUÇÃO:
+SQL(HEROKU)
+
+*AMBIENTE DESENVOLVIMENTO:
+SQL, POSTGRES via container DOCKER, TONCAT, JpaRepository, HIBERNATE
+
+*AMBIENTE TESTE:
+JUNIT, POSTMAN, H2-CONSOLE
+
+
